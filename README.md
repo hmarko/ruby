@@ -3,6 +3,9 @@
 
 ## How to install Ruby?
 
+
+  NOTE: This guide is a shorter version of [Ruby-lang.org](https://www.ruby-lang.org/en/documentation/installation) installation guides.
+
 #### This depends on what Operating System you use:
 
   1. I have [Windows](#install-ruby-on-windows)
