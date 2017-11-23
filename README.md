@@ -57,7 +57,7 @@ nevertheless, some 2.x.x Ruby versions were also [buggy](https://github.com/e2/r
 RVM & rbenv are two rival command line tools that are frequently used to install different Ruby versions. You can use either of the two to install your desired Ruby version with relative ease.
 
 * To install Ruby using RVM go to [RMV.io](https://rvm.io/rvm/install#installation) and follow the instalation instructions.
-* To install Ruby using rbenv
+* To install Ruby using rbenv go to [rbenv wiki on Github](https://github.com/rbenv/ruby-build/wiki) and follow the installation instructions.
 
 
 ## How do I check which ruby version was installed?
